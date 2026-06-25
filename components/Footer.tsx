@@ -37,10 +37,10 @@ export function Footer() {
               Pre-order & event booking
             </p>
             <a
-              href="tel:8754576045"
+              href="tel:1234567890"
               className="mt-1 inline-block text-lg font-semibold text-white hover:text-emerald-200"
             >
-              87545 76045
+              1234567890
             </a>
           </div>
         </div>

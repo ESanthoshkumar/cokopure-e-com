@@ -173,10 +173,10 @@ export default function Home() {
               flavor tells a story of purity and tradition.
             </p>
             <a
-              href="tel:8754576045"
+              href="tel:1234567890"
               className="mt-6 inline-flex items-center gap-2 text-emerald-700 font-semibold hover:text-emerald-800"
             >
-              Call for pre-orders: 87545 76045 →
+              Call for pre-orders: 1234567890 →
             </a>
           </div>
         </div>
